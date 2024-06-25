@@ -12,20 +12,20 @@ This is a simple web application that predicts Titanic survival using a Machine 
 
 2. Create a virtual environment and install dependencies
     ```bash
-    python -m venv venv
+    python3 -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
 
 3. Train the model
     ```bash
-    python model_training/train_model.py
+    python3 model_training/train_model.py
     ```
 
 4. Run the application
     ```bash
     cd app
-    python app.py
+    python3 app.py
     ```
 
 5. Open your browser and go to `http://127.0.0.1:5000/`
