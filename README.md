@@ -6,7 +6,7 @@ This is a simple web application that predicts Titanic survival using a Machine 
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/tu-usuario/titanic-ml-webapp.git
+    git clone https://github.com/XaviCarrera/titanic-ml-webapp.git
     cd titanic-ml-webapp
     ```
 
