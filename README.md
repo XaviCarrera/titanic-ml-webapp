@@ -28,7 +28,7 @@ This is a simple web application that predicts Titanic survival using a Machine 
     streamlit run app/frontend/app.py
     ```
 
-5. Open your browser and go to `http://127.0.0.1:5000/`
+5. Open your browser and go to `http://127.0.0.1:8501/`
 
 ## Usage
 
