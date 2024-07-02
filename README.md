@@ -24,8 +24,8 @@ This is a simple web application that predicts Titanic survival using a Machine 
 
 4. Run the application
     ```bash
-    cd app
-    python3 app.py
+    python3 app/app.py
+    streamlit run app/frontend/app.py
     ```
 
 5. Open your browser and go to `http://127.0.0.1:5000/`
