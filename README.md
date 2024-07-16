@@ -99,23 +99,10 @@ Fill in the form with the required details and submit to get the prediction.
 
 ## Technologies Used
 
-### Python
-![Python](https://www.python.org/static/community_logos/python-logo.png)
-
-### Flask
-![Flask](https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png)
-
-### Streamlit
-![Streamlit](https://streamlit.io/images/brand/streamlit-mark-color.png)
-
-### Docker
-![Docker](https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png)
-
-### Heroku
-![Heroku](https://brand.heroku.com/static/media/heroku-logotype-vertical.f7f56a9f.svg)
-
-### Pandas
-![Pandas](https://pandas.pydata.org/static/img/pandas_mark.svg)
-
-### Scikit-Learn
-![Scikit-Learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
+- [Python](https://www.python.org/doc/)
+- [Flask](https://flask.palletsprojects.com/en/latest/)
+- [Streamlit](https://docs.streamlit.io/)
+- [Docker](https://docs.docker.com/)
+- [Heroku](https://devcenter.heroku.com/categories/reference)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)
