@@ -97,6 +97,10 @@ Fill in the form with the required details and submit to get the prediction.
     heroku open -a your-app-name
     ```
 
+## Data Sources
+
+- [Open Titanic Survival Dataset](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
+
 ## Technologies Used
 
 - [Python](https://www.python.org/doc/)
